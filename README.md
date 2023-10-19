@@ -1,7 +1,5 @@
 # Panorama Stitching using SIFT/SURF/ORB Descriptors
 
-![Panorama Example]([panorama_example.jpg](https://github.com/Ali623/Panorama-Stitching-using-Sift-Surf-ORB-descriptors/blob/main/5.jpg))
-
 ## Overview
 
 This repository contains code for creating stunning panoramic images by stitching together multiple overlapping images. The panorama stitching process leverages feature descriptors, including SIFT (Scale-Invariant Feature Transform), SURF (Speeded-Up Robust Features), and ORB (Oriented FAST and Rotated BRIEF), to identify matching keypoints and align images seamlessly.
