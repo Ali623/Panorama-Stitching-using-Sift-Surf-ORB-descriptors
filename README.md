@@ -24,6 +24,8 @@ OpenCV (cv2)
 NumPy
 You can install these libraries using pip.
 
+## Execution
+
 ## About the Author
 Aliullah
 aliullah623@gmail.com
