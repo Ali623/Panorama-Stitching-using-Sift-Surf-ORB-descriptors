@@ -25,7 +25,7 @@ NumPy
 You can install these libraries using pip.
 
 ## Execution
-Inorder to execute the code
+Inorder to execute the code just run the .ipynb file.
 
 ## About the Author
 Aliullah
