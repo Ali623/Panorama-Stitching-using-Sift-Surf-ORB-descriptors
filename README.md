@@ -25,6 +25,7 @@ NumPy
 You can install these libraries using pip.
 
 ## Execution
+Inorder to execute the code
 
 ## About the Author
 Aliullah
